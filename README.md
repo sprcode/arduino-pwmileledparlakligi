@@ -12,3 +12,5 @@ Detaylı bilgi ve kod açıklamaları için https://sprcode.com/pwm-led-parlakli
 </ul>
 
 <h2> Bağlantı Şeması </h2>
+
+![pwmsema](https://user-images.githubusercontent.com/47007407/51908502-10e89a00-23db-11e9-81b5-f517f38f0a96.png)
